@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sarthakcr007@gmail.com**
 
-- ⚡ Fun fact **I play online Games PLUS I'm Funny 😏**
+- ⚡ Fun fact **I play online Games + I'm Funny 😏**
 
 ## Connect with me:
 <p align="left">
