@@ -48,8 +48,7 @@
 
 ## GitHub:
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarthak3003&label=Profile%20views&color=0e75b6&style=flat" alt="Sarthak3003" /> 
-<a href="https://github.com/Sarthak3003?tab=followers"><img src="https://img.shields.io/github/followers/Sarthak3003?label=Followers&style=social" alt="GitHub Badge"></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarthak3003&label=Profile%20views&color=0e75b6&style=flat" alt="Sarthak3003" /> </p>
 <br/>
 
 <p align="center">
@@ -67,7 +66,8 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Sarthak3003"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sarthak3003&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Sarthak3003"><img alt="Sarthak Bhan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sarthak3003&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Sarthak3003/"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak3003&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br/>
 <br/>
