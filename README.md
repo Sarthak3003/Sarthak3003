@@ -71,17 +71,3 @@
 
 <br/>
 <br/>
-
-
-## GitHub Info:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarthak3003&label=Profile%20views&color=0e75b6&style=flat" alt="lokita282" /> </p>
-<table>
-  <tr>
-      <img src="https://github-readme-stats.vercel.app/api?username=Sarthak3003&theme=tokyonight&show_icons=true"  display=block width=60% height=auto  alt="1" >
-   </tr> 
-  <tr>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak3003&theme=radical"  display=block width=60% height=auto alt="3" >
-   </tr>
-  <tr>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak3003&theme=tokyonight&layout=compact"  display=block width=60% height=auto  alt="2" >
-  </tr>
