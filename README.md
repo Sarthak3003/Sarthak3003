@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Social Media Website**
 
-- 🌱 I’m currently learning **MERN and AI, ML**
+- 🌱 I’m currently learning **MERN and AI-ML and Web3**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
