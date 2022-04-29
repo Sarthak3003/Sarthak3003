@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Social Media Website**
+- 🔭 I’m currently working on **Social Media Website** and **VR Game**
 
 - 🌱 I’m currently learning **MERN and AI-ML and Web3**
 
