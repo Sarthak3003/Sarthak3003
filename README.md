@@ -64,9 +64,6 @@
   <br/>
 
 <br/>
-
-<p align="center"><img src="https://github.com/theand9/theand9/blob/output/github-contribution-grid-snake.svg"/></p>
-
 <br/>
 
 <a href="https://github.com/Sarthak3003"><img alt="Sarthak Bhan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sarthak3003&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
