@@ -62,6 +62,8 @@
 <a href="https://hyper.is/" target="_blank" rel="noreferrer"> <img src="https://ph-files.imgix.net/d20962fa-6bca-4f4a-810a-2ff5a1d48438.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=64&h=64&fit=crop&frame=1&dpr=1" alt="hyper" width="40" height="40"/> </a>
 
 ## GitHub:
+<hr>
+
 
 <p align="center">
     <a href="https://github.com/Sarthak3003/">
