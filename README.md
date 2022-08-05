@@ -64,7 +64,6 @@
 ## GitHub:
 <hr>
 
-
 <p align="center">
     <a href="https://github.com/Sarthak3003/">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sarthak Bhan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak3003&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
