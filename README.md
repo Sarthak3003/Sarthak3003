@@ -91,7 +91,7 @@
 
 <div>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<img src="https://user-images.githubusercontent.com/74038190/216655835-a5f1d93e-f8b1-44da-90ec-e52e833824f6.gif" width="250" />
+<img src="https://user-images.githubusercontent.com/74038190/216655835-a5f1d93e-f8b1-44da-90ec-e52e833824f6.gif" width="100%" />
     <a href="https://github.com/Sarthak3003/"><img alt="Sarthak Bhan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak3003&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
