@@ -74,6 +74,7 @@
 
 ## GitHub:
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216655825-c639587f-6eb0-4841-b622-9f522f55d40e.gif" width="160" />
     <a href="https://github.com/Sarthak3003/">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sarthak Bhan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak3003&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
