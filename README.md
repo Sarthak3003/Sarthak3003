@@ -3,7 +3,6 @@
 </div>
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30px" height="30px">, I'm Sarthak Bhan</h1>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 <h3 align="center">I'm a passionate Web and AI/ML Developer from India.</h3>
 
 
@@ -100,7 +99,7 @@
 ```
 
 ## GitHub:
-<hr>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 <p align="center">
     <a href="https://github.com/Sarthak3003/">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sarthak Bhan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak3003&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -108,6 +107,7 @@
 </p>
 
 ## 📊 My Github Stats
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
   <br/>
     <a href="https://github.com/Sarthak3003/"><img alt="Sarthak Bhans's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sarthak3003&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
