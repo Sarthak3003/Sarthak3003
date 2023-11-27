@@ -27,7 +27,7 @@
 
 </p>
 
-## 🚀 Languages and Tools: <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
+## 🚀 Languages and Tools:
 
 <h4 align="left">Languages</h4>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="python" width="100"/> </a> 
