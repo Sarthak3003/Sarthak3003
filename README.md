@@ -14,7 +14,7 @@
 
 - 🎯 I’m looking to collaborate on **Open Source Projects**
 
-- 📫 How to reach me **sarthakcr007@gmail.com**
+- 📫 How to reach me **sarthak.bhan07@gmail.com**
 
 - ⚡ Fun fact **I play online Games + I'm Funny 😏**
 
