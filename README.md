@@ -100,6 +100,8 @@
 ## GitHub:
 <hr>
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
 <p align="center">
     <a href="https://github.com/Sarthak3003/">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sarthak Bhan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak3003&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
