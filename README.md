@@ -35,6 +35,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img  src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="javascript" width="100"/> </a>
 </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="100"/> </a> </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 <h4>Tools and Frameworks</h4>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
@@ -61,6 +63,8 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100"/> </a>
 <img src="https://ph-files.imgix.net/d20962fa-6bca-4f4a-810a-2ff5a1d48438.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=64&h=64&fit=crop&frame=1&dpr=1" alt="hyper" width="100"/> </a>
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <h4>AI/ML</h4>
 <p align="left">
@@ -99,7 +103,6 @@
 ```
 
 ## GitHub:
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 <p align="center">
     <a href="https://github.com/Sarthak3003/">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sarthak Bhan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak3003&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -107,7 +110,6 @@
 </p>
 
 ## 📊 My Github Stats
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
   <br/>
     <a href="https://github.com/Sarthak3003/"><img alt="Sarthak Bhans's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sarthak3003&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
