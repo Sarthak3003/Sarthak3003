@@ -18,6 +18,12 @@
 
 - ⚡ Fun fact **I play online Games + I'm Funny 😏**
 
+- 🥇 Winner of **Smart India Hackathon '22**
+
+- 🥇 2nd place at SPIT's Hackanova 2023.
+
+- 🥇 2nd place in one Problem Statement at TCET's Hackathon Hackanova 2022.
+
 ## Connect with me:
 <p align="left">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="75">&nbsp;
