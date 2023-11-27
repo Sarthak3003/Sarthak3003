@@ -20,10 +20,10 @@
 
 ## Connect with me:
 <p align="left">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="75">&nbsp; | Socials:
-<a href = "https://www.linkedin.com/in/sarthak-bhan-55365a17a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/SarthakBhan"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/sarthakbhan/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="75">&nbsp;
+<a href = "https://www.linkedin.com/in/sarthakbhan/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="75"/></a>
+<a href = "https://twitter.com/SarthakBhan"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="75"/></a>
+<a href = "https://www.instagram.com/sarthakbhan/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="75"/></a>
 
 </p>
 
