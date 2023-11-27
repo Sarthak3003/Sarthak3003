@@ -35,7 +35,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img  src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="javascript" width="100"/> </a>
 </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="100"/> </a> </p>
 
-<h4>Web Development</h4>
+<h4>Tools and Frameworks</h4>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
@@ -55,6 +55,11 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="100"/> </a>
+<!-- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://giphy.com/embed/QWOSiVuUuNAJHXv0FX" alt="photoshop" width="100"/> </a> -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100"/> </a>
+<a href="https://hyper.is/" target="_blank" rel="noreferrer"> <img src="https://ph-files.imgix.net/d20962fa-6bca-4f4a-810a-2ff5a1d48438.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=64&h=64&fit=crop&frame=1&dpr=1" alt="hyper" width="100"/> </a>
 </div>
 
 <h4>AI/ML</h4>
@@ -67,12 +72,6 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="100"/> </a> 
 </p> 
 
-<h4>Tools</h4>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="100"/> </a>
-<!-- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://giphy.com/embed/QWOSiVuUuNAJHXv0FX" alt="photoshop" width="100"/> </a> -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100"/> </a>
-<a href="https://hyper.is/" target="_blank" rel="noreferrer"> <img src="https://ph-files.imgix.net/d20962fa-6bca-4f4a-810a-2ff5a1d48438.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=64&h=64&fit=crop&frame=1&dpr=1" alt="hyper" width="100"/> </a>
 
 ## Hello, Nice to Meet You !!
 
