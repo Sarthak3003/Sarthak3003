@@ -85,6 +85,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sarthak Bhan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak3003&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
   <img src="https://user-images.githubusercontent.com/74038190/216655835-a5f1d93e-f8b1-44da-90ec-e52e833824f6.gif" width="250" />
+    <a href="https://github.com/Sarthak3003/"><img alt="Sarthak Bhan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak3003&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
 ## 📊 My Github Stats
@@ -94,7 +95,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif" width="220" />
 <a href="https://github.com/Sarthak3003/"><img alt="Sarthak Bhans's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sarthak3003&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/Sarthak3003/"><img alt="Sarthak Bhan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak3003&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 </div>
 
