@@ -67,7 +67,7 @@
 
 <h4>Tools</h4>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="100"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://petapixel.com/assets/uploads/2020/06/pslogo.gif" alt="photoshop" width="100"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://giphy.com/embed/QWOSiVuUuNAJHXv0FX" alt="photoshop" width="100"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100"/> </a>
 <a href="https://hyper.is/" target="_blank" rel="noreferrer"> <img src="https://ph-files.imgix.net/d20962fa-6bca-4f4a-810a-2ff5a1d48438.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=64&h=64&fit=crop&frame=1&dpr=1" alt="hyper" width="100"/> </a>
