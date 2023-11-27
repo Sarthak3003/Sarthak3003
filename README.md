@@ -55,11 +55,11 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="100"/> </a>
+<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="100"/> </a>
 <!-- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://giphy.com/embed/QWOSiVuUuNAJHXv0FX" alt="photoshop" width="100"/> </a> -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100"/> </a>
-<a href="https://hyper.is/" target="_blank" rel="noreferrer"> <img src="https://ph-files.imgix.net/d20962fa-6bca-4f4a-810a-2ff5a1d48438.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=64&h=64&fit=crop&frame=1&dpr=1" alt="hyper" width="100"/> </a>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100"/> </a>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100"/> </a>
+<img src="https://ph-files.imgix.net/d20962fa-6bca-4f4a-810a-2ff5a1d48438.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=64&h=64&fit=crop&frame=1&dpr=1" alt="hyper" width="100"/> </a>
 </div>
 
 <h4>AI/ML</h4>
