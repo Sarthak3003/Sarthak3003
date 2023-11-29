@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **MERN and AI-ML and Web3**
 
-- 🎯 I’m looking to collaborate on **Open Source Projects**
+- 🎯 I’m looking to collaborate on **Open Source Projects** and **StackOverflow**
 
 - 📫 How to reach me **sarthak.bhan07@gmail.com**
 
