@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Open Source Projects**
+- 🔭 I’m currently working on **Freelancing Projects** and **Open Source Projects**
 
 - 🌱 I’m currently learning **MERN and AI-ML and Web3**
 
