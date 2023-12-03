@@ -30,7 +30,7 @@
 <a href = "https://www.linkedin.com/in/sarthakbhan/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="75"/></a>
 <a href = "https://twitter.com/SarthakBhan"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="75"/></a>
 <a href = "https://www.instagram.com/sarthakbhan/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="75"/></a>
-<a href = "https://medium.com/@sarthakbhan"><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*psYl0y9DUzZWtHzFJLIvTw.png" width="75" style="border-radius:50%"/></a>
+<a href = "https://medium.com/@sarthakbhan"><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*psYl0y9DUzZWtHzFJLIvTw.png" width="75" style="border-radius:50"/></a>
 
 </p>
 
