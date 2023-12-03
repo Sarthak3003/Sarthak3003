@@ -27,10 +27,10 @@
 ## Connect with me:
 <p align="left">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="75" >&nbsp;
-<a href = "https://www.linkedin.com/in/sarthakbhan/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="75" /></a>
-<a href = "https://twitter.com/SarthakBhan" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="75" /></a>
-<a href = "https://www.instagram.com/sarthakbhan/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="75"/></a>
-<a href = "https://medium.com/@sarthakbhan" target="_blank"><img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" width="75" style="border-radius:50"/></a>
+<a href = "https://www.linkedin.com/in/sarthakbhan/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="75" /></a>
+<a href = "https://twitter.com/SarthakBhan"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="75" /></a>
+<a href = "https://www.instagram.com/sarthakbhan/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="75"/></a>
+<a href = "https://medium.com/@sarthakbhan"><img src="//wsrv.nl/?url=https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png&w=75&h=75" width="75" style="border-radius:50"/></a>
 
 </p>
 
