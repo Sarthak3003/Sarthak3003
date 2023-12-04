@@ -32,7 +32,6 @@
 <a href = "https://www.instagram.com/sarthakbhan/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="75"/></a>
 <a href = "https://medium.com/@sarthakbhan"><img src="https://wsrv.nl/?url=https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png&w=75" width="75" style="border-radius:50"/></a>
 
-
 </p>
 
 ## 🚀 Languages and Tools:
